@@ -1,6 +1,6 @@
 # weather_climate
 
-Sure, here's a description for a weather app developed using Flutter:
+
 
 ---
 
