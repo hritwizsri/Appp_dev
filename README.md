@@ -1,19 +1,13 @@
-# weather_clima
+# weather_climate
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Sure, here's a description for a weather app developed using Flutter:
 
-## Getting Started
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter Weather App
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+This Flutter app provides real-time weather updates based on the user's location input. Utilizing the OpenWeatherMap API, it retrieves accurate weather data and presents it in a user-friendly interface.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Features:
 
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- **Location-based Weather:** Users can input their location to receive current
